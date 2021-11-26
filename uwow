@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-id="varboystore" tvg-name="varboystore" tvg-logo="https://i.postimg.cc/s23ZDshK/1618700082600.jpg" group-title="VARBOY STORE",VARBOY STORE
-http://s1.urhdiptv.net:8080/live/mma2/.m3u8
 #EXTINF:-1 tvg-id="rcti" tvg-name="rcti" tvg-logo="https://i.postimg.cc/s23ZDshK/1618700082600.jpg" group-title="LOKAL", RCTI
 http://syarman.hexat.com/INDONESIA%20HD/rcti.m3u8
 #EXTINF:-1 tvg-id="MNC TV" tvg-name="MNC TV" tvg-logo="https://i.postimg.cc/s23ZDshK/1618700082600.jpg" group-title="LOKAL", MNC TV
@@ -886,6 +884,8 @@ https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-1 group-title="Channnel Sport", SONY SIX HD
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 
+#EXTINF:0 tvg-id="varboystore" tvg-name="varboystore" tvg-logo="https://i.postimg.cc/s23ZDshK/1618700082600.jpg" group-title="VARBOY STORE",VARBOY STORE
+http://s1.urhdiptv.net:8080/live/mma2/.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s23ZDshK/1618700082600.jpg" group-title="VARBOY STORE",1
 http://cdn.adultiptv.net/rough.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s23ZDshK/1618700082600.jpg" group-title="VARBOY STORE",2
